@@ -1,5 +1,5 @@
 h1, h2, h3, h4 {
-
+color: yellow;
 }
 
 p {
@@ -10,5 +10,7 @@ p {
 #titulos {
 color: blue;
 background-color: brown;
-margin: 30px;
+margin: 40px, 60px, 50px, 40px;
+padding: 50px, 50px, 40px, 70px;
+border: 
 }
