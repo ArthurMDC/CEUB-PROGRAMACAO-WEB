@@ -1,3 +1,16 @@
+//imprima os numero de 1 a 5 na tela
+//for (let i = 1; i < 100000; i += 1) {
+//     console.log(i);
+//}
+
+let i = i
+
+
+while (i < 6) {
+    console.log(i);
+    i++; 
+}
+
 /*
 let a = "5";
 let b = 2;
